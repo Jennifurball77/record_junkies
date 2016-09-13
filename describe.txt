@@ -1,0 +1,4 @@
+what I am trying to do for the plugin is to use the template that you have in your web tutorial.
+Moving coding around and figuring out what I need to do to make it work. Also making sure all of my script files are linked up properly. 
+still not sure if I should use the spotify plugin. 
+Might go with something else. 
